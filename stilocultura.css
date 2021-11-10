@@ -1,0 +1,77 @@
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+#logo-ma{
+	width: 27%;
+	position: relative;
+	top: 110px;
+	right: 20px;
+}
+#logo-ma:hover{
+	width: 30%;
+}
+#TOP{
+	display: inline;
+	margin: 0 0 0 15px;
+	font-family:monospace;
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: none; 
+	text-transform: uppercase;
+	color: #000000;	
+	position: absolute;
+	top:110px;
+	right: 60px;
+
+}
+nav{
+	position: absolute;
+	top: 150px;
+	right: 0;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+	font-family:monospace;
+}	
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-size: 22px;
+	text-decoration: none; 
+}
+nav a:hover{
+	color: #5F9EA0;
+	
+
+
+}
+.corpo{
+	
+
+
+}
+#texto-ma{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+	position: absolute;
+	top: 700px;
+	right: 5px;
+	left: 400px;
+	font-family:comfortaa;
+	font-size: 30px;
+
+}
+#capa{
+	width: 50%;
+	position: relative;
+	top: 130px;
+	right: 10px;
+	left: 800px;
+}

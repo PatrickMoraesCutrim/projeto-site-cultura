@@ -1,0 +1,59 @@
+
+#imagem-MA{
+	width: 20%;
+	vertical-align: all;
+	margin-left: 80%;
+
+}
+#logo-ma{
+	width: 20%;
+
+}
+#texto-maranhao{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+.corpo{
+
+	background: #CCCCCC;
+	padding: 30px;
+	width: 960px;
+	margin: auto;
+}
+.titulo-principal{
+	padding-left:20px ;
+}
+.titulo-centralizado{
+		text-align: center
+}
+p{
+	text-align: center;
+
+}
+#missão {
+	font-size: 20px
+}
+em strong{
+
+
+	color: red;
+}
+.itens{
+	font-style:italic;
+}
+.Benefícios{
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+.imagem-beneficios{
+	width: 100%;
+}
